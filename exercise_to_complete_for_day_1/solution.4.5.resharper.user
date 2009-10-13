@@ -1,0 +1,146 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="EF77F62B-1CC6-4C03-8198-26DB2D24EE75/f:TypeExtensionsSpecs.cs" caret="0" fromTop="0" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:Genre.cs" caret="0" fromTop="0" />
+      <File id="EF77F62B-1CC6-4C03-8198-26DB2D24EE75/f:StringExtensionsSpecs.cs" caret="676" fromTop="21" />
+      <File id="EF77F62B-1CC6-4C03-8198-26DB2D24EE75/f:TypeCastingSpecs.cs" caret="0" fromTop="0" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:infrastructure/d:extensions/f:TypeCasting.cs" caret="128" fromTop="4" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:infrastructure/d:extensions/f:CollectionExtensions.cs" caret="177" fromTop="6" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:infrastructure/d:extensions/f:Iteration.cs" caret="0" fromTop="0" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:infrastructure/d:extensions/f:StringExtensions.cs" caret="0" fromTop="0" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:infrastructure/d:extensions/f:TypeExtensions.cs" caret="0" fromTop="0" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:Movie.cs" caret="0" fromTop="0" />
+      <File id="EF77F62B-1CC6-4C03-8198-26DB2D24EE75/f:IterationSpecs.cs" caret="0" fromTop="0" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:ProductionStudio.cs" caret="63" fromTop="2" />
+      <File id="EF77F62B-1CC6-4C03-8198-26DB2D24EE75/f:MovieLibrarySpecs.cs" caret="15166" fromTop="172" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="574" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="3258" fromTop="22" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="3364" fromTop="24" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="3555" fromTop="26" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="3671" fromTop="27" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="3809" fromTop="22" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="3927" fromTop="23" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="5309" fromTop="38" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="5448" fromTop="22" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="4949" fromTop="34" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="5245" fromTop="23" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="959" fromTop="25" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="4771" fromTop="28" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:Movie.cs" caret="394" fromTop="13" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:Movie.cs" caret="837" fromTop="25" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:Movie.cs" caret="120" fromTop="4" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:Movie.cs" caret="902" fromTop="29" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:Movie.cs" caret="1621" fromTop="36" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:Movie.cs" caret="837" fromTop="28" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:Movie.cs" caret="572" fromTop="17" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:Movie.cs" caret="423" fromTop="11" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="1185" fromTop="29" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="4894" fromTop="21" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="4311" fromTop="24" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="2274" fromTop="22" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="1233" fromTop="17" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="1609" fromTop="28" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:Movie.cs" caret="1456" fromTop="39" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="4638" fromTop="26" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="574" fromTop="13" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="341" fromTop="7" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="_movieCollection" priority="10" />
+      <Item value="list_of_movies" priority="0" />
+      <Item value="return" priority="17" />
+      <Item value="if" priority="6" />
+      <Item value="List" priority="2" />
+      <Item value="foreach" priority="3" />
+      <Item value="movie" priority="5" />
+      <Item value="ProductionStudio" priority="2" />
+      <Item value="yield return" priority="2" />
+      <Item value="new" priority="1" />
+      <Item value="List&lt;Movie&gt;" priority="1" />
+      <Item value="movieList" priority="5" />
+      <Item value="Movie" priority="3" />
+      <Item value="movies" priority="1" />
+      <Item value="year" priority="0" />
+      <Item value="Genre" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="y" priority="0" />
+      <Item value="else" priority="1" />
+      <Item value="switch" priority="0" />
+      <Item value="enuSortOrder" priority="6" />
+      <Item value="SortOrder" priority="0" />
+      <Item value="TypeCode" priority="1" />
+      <Item value="IComparable" priority="1" />
+      <Item value="this" priority="4" />
+      <Item value="break" priority="1" />
+      <Item value="case" priority="3" />
+      <Item value="other" priority="3" />
+      <Item value="public" priority="0" />
+      <Item value="IEquatable" priority="0" />
+      <Item value="Predicate" priority="0" />
+      <Item value="moviematch" priority="0" />
+      <Item value="null" priority="0" />
+      <Item value="IEnumerable" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="GetEnumerator" priority="1" />
+      <Item value="Add" priority="0" />
+      <Item value="Contains" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:nothinbutdotnetprep.collections.Movie">
+      <Item value="production_studio" priority="2" />
+      <Item value="title" priority="10" />
+      <Item value="date_published" priority="6" />
+      <Item value="genre" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@nothinbutdotnetprep.collections.ProductionStudio">
+      <Item value="Pixar" priority="1" />
+      <Item value="Disney" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Sort" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="CompareTo" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Year" priority="0" />
+      <Item value="CompareTo" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@nothinbutdotnetprep.collections.Genre">
+      <Item value="kids" priority="0" />
+      <Item value="action" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@nothinbutdotnetprep.collections.Movie+enuSortOrder">
+      <Item value="MovieDateAsc" priority="0" />
+      <Item value="MovieYearDesc" priority="2" />
+      <Item value="MovieTitleDesc" priority="2" />
+      <Item value="MovieTitleAsc" priority="0" />
+      <Item value="MovieTitleAndYear" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@nothinbutdotnetprep.collections.Movie">
+      <Item value="SortOrder" priority="1" />
+      <Item value="enuSortOrder" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

@@ -1,0 +1,10 @@
+C:\Documents\NothingButDotNet\course\course\prep\exercise_to_complete_for_day_1\product\nothinbutdotnetprep\bin\Debug\nothinbutdotnetprep.dll
+C:\Documents\NothingButDotNet\course\course\prep\exercise_to_complete_for_day_1\product\nothinbutdotnetprep\bin\Debug\nothinbutdotnetprep.pdb
+C:\Documents\NothingButDotNet\course\course\prep\exercise_to_complete_for_day_1\product\nothinbutdotnetprep\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents\NothingButDotNet\course\course\prep\exercise_to_complete_for_day_1\product\nothinbutdotnetprep\obj\Debug\nothinbutdotnetprep.dll
+C:\Documents\NothingButDotNet\course\course\prep\exercise_to_complete_for_day_1\product\nothinbutdotnetprep\obj\Debug\nothinbutdotnetprep.pdb
+C:\course\prep\exercise_to_complete_for_day_1\product\nothinbutdotnetprep\bin\Debug\nothinbutdotnetprep.dll
+C:\course\prep\exercise_to_complete_for_day_1\product\nothinbutdotnetprep\bin\Debug\nothinbutdotnetprep.pdb
+C:\course\prep\exercise_to_complete_for_day_1\product\nothinbutdotnetprep\obj\Debug\ResolveAssemblyReference.cache
+C:\course\prep\exercise_to_complete_for_day_1\product\nothinbutdotnetprep\obj\Debug\nothinbutdotnetprep.dll
+C:\course\prep\exercise_to_complete_for_day_1\product\nothinbutdotnetprep\obj\Debug\nothinbutdotnetprep.pdb

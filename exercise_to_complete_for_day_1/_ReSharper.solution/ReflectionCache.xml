@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Assemblies Version="1073741836">
+  <Assembly Name="System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Image="19559671-e280-42c2-abb1-29924830965e" Timestamp="633529860480000000" XmlDocIndexTimestamp="633265215640000000" />
+  <Assembly Name="Castle.DynamicProxy2, Version=2.0.3.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc" Image="91ad0a51-5667-4a2d-b991-53db976c0e7c" Timestamp="633726468814816830" />
+  <Assembly Name="developwithpassion.bdd, Version=1.0.0.0, Culture=neutral" Image="3711ba83-c438-4dd5-b6bd-57317c18551c" Timestamp="633714683436034090" />
+  <Assembly Name="developwithpassion.bdddoc, Version=1.0.0.0, Culture=neutral" Image="50ebe680-4fba-4dd8-b351-11ab3f502a2e" Timestamp="633772710197912440" />
+  <Assembly Name="developwithpassion.commons.core.infrastructure, Version=1.0.0.0, Culture=neutral" Image="68493a25-d2ee-46cb-94e6-d294faec82ca" Timestamp="633714684916647480" />
+  <Assembly Name="MbUnit.Framework, Version=2.4.2.130, Culture=neutral, PublicKeyToken=5e72ecd30bc408d5" Image="800bfb98-ba99-414b-81d8-fbc35b7ff0d1" Timestamp="633661740862150590" XmlDocIndexTimestamp="633902580266406250" />
+  <Assembly Name="Rhino.Mocks, Version=3.5.0.1337, Culture=neutral, PublicKeyToken=0b3305902db7183f" Image="870317c5-63e2-432e-badd-1f9aec8eedaf" Timestamp="633675574995415760" XmlDocIndexTimestamp="633902580272656250" />
+  <Assembly Name="System.Xml.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Image="6ade742f-5ea5-487d-bf10-0c61dbdfa355" Timestamp="633529860480000000" XmlDocIndexTimestamp="633258313180000000" />
+  <Assembly Name="System.Data.DataSetExtensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Image="bea18b34-6552-45ef-98b7-ccae97cf4748" Timestamp="633529860480000000" XmlDocIndexTimestamp="633265215640000000" />
+  <Assembly Name="JetBrains.Annotations, Version=4.1.933.3, Culture=neutral, PublicKeyToken=1010a0d8d6380325" Image="b59ef46c-49b8-4067-8425-8ed70e293aa9" Timestamp="633559886920000000" XmlDocIndexTimestamp="633559886920000000" />
+</Assemblies>

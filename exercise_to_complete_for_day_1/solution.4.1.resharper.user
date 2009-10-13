@@ -1,0 +1,35 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="EF77F62B-1CC6-4C03-8198-26DB2D24EE75/f:IterationSpecs.cs" caret="0" scrollPosition="0|0" />
+      <File id="EF77F62B-1CC6-4C03-8198-26DB2D24EE75/f:MovieLibrarySpecs.cs" caret="0" scrollPosition="0|311" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:Movie.cs" caret="0" scrollPosition="0|0" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:ProductionStudio.cs" caret="0" scrollPosition="0|0" />
+      <File id="EF77F62B-1CC6-4C03-8198-26DB2D24EE75/f:TypeCastingSpecs.cs" caret="0" scrollPosition="0|0" />
+      <File id="EF77F62B-1CC6-4C03-8198-26DB2D24EE75/f:TypeExtensionsSpecs.cs" caret="0" scrollPosition="0|18" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="0" scrollPosition="0|0" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:Genre.cs" caret="0" scrollPosition="0|0" />
+    </RecentFiles>
+    <RecentEdits />
+  </RecentFiles>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+</Configuration>
