@@ -6,6 +6,10 @@ namespace nothinbutdotnetprep.collections
     public class MovieLibrary
     {
         private IList<Movie> _movieCollection;
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="list_of_movies"></param>
         public MovieLibrary(IList<Movie> list_of_movies)
         {
             _movieCollection = list_of_movies;

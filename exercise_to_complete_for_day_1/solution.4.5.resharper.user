@@ -18,30 +18,24 @@
       <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:Genre.cs" caret="0" fromTop="0" />
       <File id="EF77F62B-1CC6-4C03-8198-26DB2D24EE75/f:StringExtensionsSpecs.cs" caret="676" fromTop="21" />
       <File id="EF77F62B-1CC6-4C03-8198-26DB2D24EE75/f:TypeCastingSpecs.cs" caret="0" fromTop="0" />
-      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:infrastructure/d:extensions/f:TypeCasting.cs" caret="128" fromTop="4" />
-      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:infrastructure/d:extensions/f:CollectionExtensions.cs" caret="177" fromTop="6" />
-      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:infrastructure/d:extensions/f:Iteration.cs" caret="0" fromTop="0" />
-      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:infrastructure/d:extensions/f:StringExtensions.cs" caret="0" fromTop="0" />
-      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:infrastructure/d:extensions/f:TypeExtensions.cs" caret="0" fromTop="0" />
       <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:Movie.cs" caret="0" fromTop="0" />
       <File id="EF77F62B-1CC6-4C03-8198-26DB2D24EE75/f:IterationSpecs.cs" caret="0" fromTop="0" />
       <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:ProductionStudio.cs" caret="63" fromTop="2" />
       <File id="EF77F62B-1CC6-4C03-8198-26DB2D24EE75/f:MovieLibrarySpecs.cs" caret="15166" fromTop="172" />
-      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="574" fromTop="13" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="219" fromTop="5" />
     </RecentFiles>
     <RecentEdits>
-      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="3258" fromTop="22" />
-      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="3364" fromTop="24" />
-      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="3555" fromTop="26" />
-      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="3671" fromTop="27" />
-      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="3809" fromTop="22" />
-      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="3927" fromTop="23" />
-      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="5309" fromTop="38" />
-      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="5448" fromTop="22" />
-      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="4949" fromTop="34" />
-      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="5245" fromTop="23" />
-      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="959" fromTop="25" />
-      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="4771" fromTop="28" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="3476" fromTop="24" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="3667" fromTop="26" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="3783" fromTop="27" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="3921" fromTop="22" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="4039" fromTop="23" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="5421" fromTop="38" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="5560" fromTop="22" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="5061" fromTop="34" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="5357" fromTop="23" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="1071" fromTop="25" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="4883" fromTop="28" />
       <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:Movie.cs" caret="394" fromTop="13" />
       <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:Movie.cs" caret="837" fromTop="25" />
       <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:Movie.cs" caret="120" fromTop="4" />
@@ -50,16 +44,17 @@
       <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:Movie.cs" caret="837" fromTop="28" />
       <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:Movie.cs" caret="572" fromTop="17" />
       <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:Movie.cs" caret="423" fromTop="11" />
-      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="1185" fromTop="29" />
-      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="4894" fromTop="21" />
-      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="4311" fromTop="24" />
-      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="2274" fromTop="22" />
-      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="1233" fromTop="17" />
-      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="1609" fromTop="28" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="5006" fromTop="21" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="4423" fromTop="24" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="2386" fromTop="22" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="1345" fromTop="17" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="1721" fromTop="28" />
       <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:Movie.cs" caret="1456" fromTop="39" />
-      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="4638" fromTop="26" />
-      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="574" fromTop="13" />
-      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="341" fromTop="7" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="4750" fromTop="26" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="686" fromTop="13" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="453" fromTop="7" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="1204" fromTop="32" />
+      <File id="286C7067-D921-4B26-8CFA-9F9B795FD4E1/d:collections/f:MovieLibrary.cs" caret="219" fromTop="5" />
     </RecentEdits>
   </RecentFiles>
   <UnitTestRunner>
