@@ -27,7 +27,11 @@ namespace nothinbutdotnetprep.collections
 
         public IEnumerable<Movie> all_movies()
         {
-            return _movieCollection ;
+            foreach (Movie movie in _movieCollection)
+            {
+                yield return movie;
+            }
+           
         }
 
         public void add(Movie movie)
