@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using Utilities;
 
 namespace nothinbutdotnetprep.collections
 {
@@ -107,6 +108,8 @@ namespace nothinbutdotnetprep.collections
             }
         }
 
+
+
         public IEnumerable<Movie> all_movies_published_between_years(int startingYear, int endingYear)
         {
             foreach (Movie movie in _movieCollection)
@@ -134,6 +137,25 @@ namespace nothinbutdotnetprep.collections
             }
         }
 
+        public IEnumerable<Movie> all_movies_matching_criteria(Predicate<Movie> match)
+        {
+            foreach (Movie movie in _movieCollection)
+            {
+                if (match(movie))
+                    yield return movie;
+            }
+
+        }
+
+        public Predicate<Movie> studio_is_pixar(ProductionStudio studio)
+        {
+            return a => a.production_studio == studio;
+        }
+        public IEnumerable<Movie> all_movies_matching_specification(ISpecification<Movie> match)
+        {
+            return all_movies_matching_criteria (match.IsSatisfiedBy);
+
+        }
         public IEnumerable<Movie> sort_all_movies_by_date_published_descending()
         {
             List<Movie> movieList = new List<Movie>(_movieCollection);

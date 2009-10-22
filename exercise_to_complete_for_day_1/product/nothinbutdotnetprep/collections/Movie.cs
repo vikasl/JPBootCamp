@@ -1,4 +1,6 @@
 using System;
+using nothinbutdotnetprep.domain;
+using Utilities;
 
 namespace nothinbutdotnetprep.collections
 {
@@ -24,6 +26,19 @@ namespace nothinbutdotnetprep.collections
         public bool Equals(Movie other)
         {
             return other == null ? false : other.title == this.title;
+        }
+
+        public static ISpecification<Movie> ProductionStudioIs(ProductionStudio studio)
+        {
+           return new ProductionStudioSpecification(studio);
+        }
+        public static ISpecification<Movie> MovieIsNumOfYearOld( int year)
+        {
+            return new NumYearOldSpecification(year);
+        }
+        public static ISpecification<Movie> Anonymous( Predicate<Movie> predicate)
+        {
+            return new AnonymousSpecification<Movie>(predicate);
         }
 
        public int CompareTo(Movie other)

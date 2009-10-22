@@ -7,6 +7,7 @@ using developwithpassion.bdd.mbunit.standard.observations;
 using developwithpassion.bdddoc.core;
 using MbUnit.Framework;
 using nothinbutdotnetprep.collections;
+using nothinbutdotnetprep.domain;
 using nothinbutdotnetprep.infrastructure.extensions;
 
 /* The following set of Contexts (TestFixture) are in place to specify the functionality that you need to complete for the MovieLibrary class.
@@ -216,6 +217,15 @@ namespace nothinbutdotnetprep.tests
             {
                 var results = sut.all_movies_published_by_pixar();
 
+                results.should_only_contain(cars, a_bugs_life);
+            };
+
+            //othere way
+            
+            it should_be_able_to_find_all_movies_published_by_pixar_using_predicate=()=>
+            {
+                //var results = sut.all_movies_matching_criteria(a => a.production_studio == ProductionStudio.Pixar );
+                var results = sut.all_movies_matching_specification(new ProductionStudioSpecification(ProductionStudio.Pixar));
                 results.should_only_contain(cars, a_bugs_life);
             };
 

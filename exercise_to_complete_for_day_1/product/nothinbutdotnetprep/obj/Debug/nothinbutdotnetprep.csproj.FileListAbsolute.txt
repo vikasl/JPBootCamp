@@ -13,3 +13,5 @@ C:\course\JPBootCamp\exercise_to_complete_for_day_1\product\nothinbutdotnetprep\
 C:\course\JPBootCamp\exercise_to_complete_for_day_1\product\nothinbutdotnetprep\obj\Debug\ResolveAssemblyReference.cache
 C:\course\JPBootCamp\exercise_to_complete_for_day_1\product\nothinbutdotnetprep\obj\Debug\nothinbutdotnetprep.dll
 C:\course\JPBootCamp\exercise_to_complete_for_day_1\product\nothinbutdotnetprep\obj\Debug\nothinbutdotnetprep.pdb
+C:\course\JPBootCamp\exercise_to_complete_for_day_1\product\nothinbutdotnetprep\bin\Debug\Utilities.dll
+C:\course\JPBootCamp\exercise_to_complete_for_day_1\product\nothinbutdotnetprep\bin\Debug\Utilities.pdb
